@@ -34,7 +34,7 @@ Please feel free to explore these projects and provide feedback or suggestions.
 I would love to hear from you! You can reach me through the following channels:
 
 - Email: deibyfabianpradaquintero@gmail.com
-- LinkedIn: [Deiby Prada]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/deiby-prada-503290238/))
+- LinkedIn: https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/deiby-prada-503290238/
 
 Feel free to connect with me, ask questions, or collaborate on interesting projects. I am always open to new opportunities and learning from others.
 
